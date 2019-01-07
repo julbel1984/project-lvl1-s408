@@ -4,7 +4,7 @@
 
 ### Установка
 
-Для глобальной установки выполните команду composer global require "julbel1984/hexlet-project-1 @dev"
+Для глобальной установки выполните команду composer global require "julbel1984/hexlet-project-1"
 
 
 ### Запуск
@@ -13,4 +13,6 @@
 
 ### Пример выполнения
 
-[![asciicast](https://asciinema.org/a/rWr5Vr8a3nJYU98dihShImo1Q.svg)](https://asciinema.org/a/rWr5Vr8a3nJYU98dihShImo1Q)
+[![asciicast](https://asciinema.org/a/220125.svg)](https://asciinema.org/a/220125)
+
+

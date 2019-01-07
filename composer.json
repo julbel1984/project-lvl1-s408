@@ -20,5 +20,11 @@
     },
     "autoload": {
       "files": ["src/Cli.php"]
+    },
+    "scripts": {
+      "phpcs": "phpcs"
+    },
+    "require-dev": {
+      "squizlabs/php_codesniffer":"^3.4"
     }
 }

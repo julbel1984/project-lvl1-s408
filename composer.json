@@ -4,10 +4,11 @@
          "bin/brain-games"
     ],
     "description": "Brain Games",
+    "keywords": ["hexlet", "hexlet project", "brain games"],
     "authors": [
         {
             "name": "julbel1984",
-            "email": "julbel1984@yandex.ru"
+            "email": "belashova1984@gmail.com"
         }
     ],
     "require": {}

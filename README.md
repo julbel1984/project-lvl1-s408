@@ -2,6 +2,7 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/21fd494612748365e8aa/maintainability)](https://codeclimate.com/github/julbel1984/project-lvl1-s408/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/21fd494612748365e8aa/test_coverage)](https://codeclimate.com/github/julbel1984/project-lvl1-s408/test_coverage)
+[![Build Status](https://travis-ci.org/julbel1984/project-lvl1-s408.svg?branch=master)](https://travis-ci.org/julbel1984/project-lvl1-s408)
 
 Первый проект в рамках професии PHP-программист на [Хекслет](https://ru.hexlet.io/professions/php)
 

@@ -3,17 +3,17 @@
     "bin": [
          "bin/brain-games"
     ],
+    "type": "library",
     "description": "Brain Games",
     "keywords": ["hexlet", "hexlet project", "brain games"],
-    "version": "1.0.0",
     "authors": [
         {
             "name": "julbel1984",
             "email": "belashova1984@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
-        "php": ">=5.3.0"
-   },
-   "minimum-stability": "stable"
+      "php": ">=5.3.0"
+    }
 }

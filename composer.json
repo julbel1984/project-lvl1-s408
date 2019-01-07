@@ -5,11 +5,15 @@
     ],
     "description": "Brain Games",
     "keywords": ["hexlet", "hexlet project", "brain games"],
+    "version": "1.0.0",
     "authors": [
         {
             "name": "julbel1984",
             "email": "belashova1984@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.3.0"
+   },
+   "minimum-stability": "stable"
 }

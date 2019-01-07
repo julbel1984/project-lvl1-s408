@@ -1,0 +1,14 @@
+{
+    "name": "julbel1984/hexlet-project-1",
+    "bin": [
+         "bin/brain-games"
+    ],
+    "description": "Brain Games",
+    "authors": [
+        {
+            "name": "julbel1984",
+            "email": "julbel1984@yandex.ru"
+        }
+    ],
+    "require": {}
+}

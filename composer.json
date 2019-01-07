@@ -11,5 +11,7 @@
             "email": "belashova1984@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "julbel1984/hexlet-project-1": "dev-master"
+    }
 }

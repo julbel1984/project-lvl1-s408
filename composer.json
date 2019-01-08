@@ -2,29 +2,35 @@
     "name": "julbel1984/hexlet-project-1",
     "version": "2.0.0",
     "bin": [
-         "bin/brain-games"
+        "bin/brain-games"
     ],
-    "type": "library",
+    "type": "project",
     "description": "Brain Games",
-    "keywords": ["hexlet", "hexlet project", "brain games"],
+    "keywords": [
+        "hexlet",  
+        "hexlet project",
+        "brain games"
+    ], 
     "authors": [
         {
             "name": "julbel1984",
             "email": "belashova1984@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {
-      "php": ">=7.1.0",
-      "wp-cli/php-cli-tools": "^0.11.10"
-    },
+    "minimum-stability": "stable",    
     "autoload": {
-      "files": ["src/Cli.php"]
+        "files": [
+            "src/Cli.php"
+        ]
     },
     "scripts": {
-      "phpcs": "phpcs"
+        "phpcs": "phpcs"
+    },
+    "require": {
+        "php": ">=7.1.0",
+        "wp-cli/php-cli-tools": "^0.11.10"
     },
     "require-dev": {
-      "squizlabs/php_codesniffer":"^3.4"
+        "squizlabs/php_codesniffer":"^3.4"
     }
 }

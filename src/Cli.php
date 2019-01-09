@@ -17,8 +17,8 @@ function welcome()
 function gameLogic($gameConditionsEven, $dataAttributes)
 {
     line("Welcome to the Brain Game! \n");
-    line($gameConditionsEven);    
-    $name = prompt("May I have your name?");    
+    line($gameConditionsEven);
+    $name = prompt("May I have your name?");
     line("Hello, {$name}!");   
 
     for ($i = 1; $i <= CORRECT_ANSWER; $i += 1) {

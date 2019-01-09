@@ -20,13 +20,13 @@ function getAnswer($question)
 }
 
 function getRandomNumber()
-{    
+{
     return rand(RANDOM_MIN, RANDOM_MAX);
 }
 
 function play()
 {
-    $dataAttributes = function () {       
+    $dataAttributes = function () {      
         $question = getRandomNumber();
         $answer = getAnswer($question);
 

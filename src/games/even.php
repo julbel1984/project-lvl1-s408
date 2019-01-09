@@ -26,10 +26,10 @@ function getRandomNumber()
 
 function play()
 {
-    $dataAttributes = function () {      
+    $dataAttributes = function () {
         $question = getRandomNumber();
         $answer = getAnswer($question);
-
+        
         return [$question, $answer];
     };
     

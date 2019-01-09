@@ -1,8 +1,9 @@
 {
     "name": "julbel1984/hexlet-project-1",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "bin": [
-        "bin/brain-games"
+        "bin/brain-games",
+        "bin/brain-even"
     ],
     "type": "project",
     "description": "Brain Games",
@@ -20,7 +21,8 @@
     "minimum-stability": "stable",    
     "autoload": {
         "files": [
-            "src/Cli.php"
+            "src/Cli.php",            
+            "src/games/even.php"
         ]
     },
     "scripts": {

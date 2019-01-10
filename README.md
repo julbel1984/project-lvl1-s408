@@ -20,6 +20,10 @@
 [![asciicast](https://asciinema.org/a/220125.svg)](https://asciinema.org/a/220125)
 
 ### Пример выполнения первой игры
-##### brain-even
+#### brain-even
 Для запуска игры brain-even выполните команду brain-even из любой точки файловой системы
 [![asciicast](https://asciinema.org/a/wqx6r0VfrDLcjqjzUewmsqw0E.svg)](https://asciinema.org/a/wqx6r0VfrDLcjqjzUewmsqw0E)
+
+### Пример выполнения первой игры
+#### brain-calc
+Для запуска игры brain-calc выполните команду brain-calc из любой точки файловой системы

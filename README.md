@@ -27,3 +27,4 @@
 ### Пример выполнения второй игры
 #### brain-calc
 Для запуска игры brain-calc выполните команду brain-calc из любой точки файловой системы
+[![asciicast](https://asciinema.org/a/9fKTzTfivvwXwLcG1TwsZFZ8K.svg)](https://asciinema.org/a/9fKTzTfivvwXwLcG1TwsZFZ8K)

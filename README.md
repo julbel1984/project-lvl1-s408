@@ -24,6 +24,6 @@
 Для запуска игры brain-even выполните команду brain-even из любой точки файловой системы
 [![asciicast](https://asciinema.org/a/wqx6r0VfrDLcjqjzUewmsqw0E.svg)](https://asciinema.org/a/wqx6r0VfrDLcjqjzUewmsqw0E)
 
-### Пример выполнения первой игры
+### Пример выполнения второй игры
 #### brain-calc
 Для запуска игры brain-calc выполните команду brain-calc из любой точки файловой системы

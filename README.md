@@ -28,3 +28,8 @@
 #### brain-calc
 Для запуска игры brain-calc выполните команду brain-calc из любой точки файловой системы
 [![asciicast](https://asciinema.org/a/9fKTzTfivvwXwLcG1TwsZFZ8K.svg)](https://asciinema.org/a/9fKTzTfivvwXwLcG1TwsZFZ8K)
+
+### Пример выполнения второй игры
+#### brain-gcd
+Для запуска игры brain-gcd выполните команду brain-gcd из любой точки файловой системы
+[![asciicast](https://asciinema.org/a/odDW8LcsMGKv4fWGno0Eddacb.svg)](https://asciinema.org/a/odDW8LcsMGKv4fWGno0Eddacb)

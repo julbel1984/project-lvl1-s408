@@ -25,7 +25,6 @@ function play()
         $firstNumber = rand(0, RANDOM_MAX);
         $secondNumber = rand(0, RANDOM_MAX);
         $sign = SIGN_MAP[array_rand(SIGN_MAP)];
-
         $question = "{$firstNumber}{$sign}{$secondNumber}";
         $answer = (string)(calculate($firstNumber, $secondNumber, $sign));
         return [$question, $answer];

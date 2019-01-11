@@ -24,8 +24,8 @@
         "files": [
             "src/Cli.php",
             "src/GameLogic.php",
-            "src/games/even.php",
-            "src/games/calc.php"
+            "src/Games/Even.php",
+            "src/Games/Calc.php"
         ]
     },
     "scripts": {

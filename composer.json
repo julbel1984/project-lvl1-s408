@@ -1,6 +1,6 @@
 {
     "name": "julbel1984/hexlet-project-1",
-    "version": "4.0.0",
+    "version": "5.0.0",
     "bin": [
         "bin/brain-games",
         "bin/brain-even",

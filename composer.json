@@ -1,11 +1,12 @@
 {
     "name": "julbel1984/hexlet-project-1",
-    "version": "5.0.0",
+    "version": "5.1.0",
     "bin": [
         "bin/brain-games",
         "bin/brain-even",
         "bin/brain-calc",
-        "bin/brain-gcd"
+        "bin/brain-gcd",
+        "bin/brain-progression"
     ],
     "type": "project",
     "description": "Brain Games",
@@ -27,7 +28,8 @@
             "src/GameLogic.php",
             "src/Games/Even.php",
             "src/Games/Calc.php",
-            "src/Games/Gcd.php"
+            "src/Games/Gcd.php",
+            "src/Games/Progression.php"
         ]
     },
     "scripts": {

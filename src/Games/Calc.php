@@ -21,7 +21,7 @@ function calculate($firstNumber, $secondNumber, $sign)
 
 function play()
 {
-    $dataAttributes = function () {
+    $generateGameData = function () {
         $firstNumber = rand(0, RANDOM_MAX);
         $secondNumber = rand(0, RANDOM_MAX);
         $sign = SIGN_MAP[array_rand(SIGN_MAP)];
@@ -30,5 +30,5 @@ function play()
         return [$question, $answer];
     };
     
-    gameLogic(DESCRIPTION, $dataAttributes);
+    gameLogic(DESCRIPTION, $generateGameData);
 }

@@ -18,7 +18,7 @@ function gcd($a, $b)
 
 function play()
 {
-    $dataAttributes = function () {
+    $generateGameData = function () {
         $firstNumber = rand(RANDOM_MIN, RANDOM_MAX);
         $secondNumber = rand(RANDOM_MIN, RANDOM_MAX);
         $question = "{$firstNumber}  {$secondNumber}";
@@ -26,5 +26,5 @@ function play()
         return [$question, $answer];
     };
     
-    gameLogic(DESCRIPTION, $dataAttributes);
+    gameLogic(DESCRIPTION, $generateGameData);
 }

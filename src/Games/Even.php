@@ -21,11 +21,11 @@ function getAnswer($question)
 
 function play()
 {
-    $dataAttributes = function () {
+    $generateGameData = function () {
         $question = rand(RANDOM_MIN, RANDOM_MAX);
         $answer = getAnswer($question);
         return [$question, $answer];
     };
     
-    gameLogic(DESCRIPTION, $dataAttributes);
+    gameLogic(DESCRIPTION, $generateGameData);
 }

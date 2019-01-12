@@ -7,7 +7,7 @@ use function \cli\prompt;
 
 const ATTEMPT = 3;
 
-function gameLogic($gameDescription, $dataAttributes)
+function gameLogic($gameDescription, $generateGameData)
 {
     line("Welcome to the Brain Game! \n");
     line($gameDescription);
@@ -15,7 +15,7 @@ function gameLogic($gameDescription, $dataAttributes)
     line("Hello, {$name}!");
 
     for ($i = 1; $i <= ATTEMPT; $i += 1) {
-        [$question, $answer] = $dataAttributes();
+        [$question, $answer] = $generateGameData();
         
         line("Question: {$question}");
         $currentAnswer = prompt("Your answer");

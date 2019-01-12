@@ -11,15 +11,15 @@ const RANDOM_MAX = 10;
 function calculate($firstNumber, $secondNumber, $sign)
 {
     switch($sign) {
-        case '+':
-            return $firstNumber + $secondNumber;
-            break;
-        case '-':
-            return $firstNumber - $secondNumber;
-            break;
-        case '*':
-            return $firstNumber * $secondNumber;
-            break;        
+    case '+':
+        return $firstNumber + $secondNumber;
+        break;
+    case '-':
+        return $firstNumber - $secondNumber;
+        break;
+    case '*':
+        return $firstNumber * $secondNumber;
+        break;        
     }
 }
 

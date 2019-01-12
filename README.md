@@ -38,3 +38,8 @@
 #### brain-progression
 Для запуска игры brain-progression выполните команду brain-progression из любой точки файловой системы
 [![asciicast](https://asciinema.org/a/33SLhCTMjmLE8xa3VgpgEqEnH.svg)](https://asciinema.org/a/33SLhCTMjmLE8xa3VgpgEqEnH)
+
+### Пример выполнения пятой игры
+#### brain-prime
+Для запуска игры brain-prime выполните команду brain-prime из любой точки файловой системы
+[![asciicast](https://asciinema.org/a/2EjfC4Wy2i0BcMyfEnLXIT2Di.svg)](https://asciinema.org/a/2EjfC4Wy2i0BcMyfEnLXIT2Di)

@@ -9,8 +9,7 @@ const PROGRESSION_LENGTH = 10;
 
 function generateProgression($start, $step)
 {
-    $progression = [];  
-    
+    $progression = [];    
     for ($i = 0; $i < PROGRESSION_LENGTH; $i += 1) {
         $progression[] = $start + $step * $i;
     }

@@ -10,16 +10,16 @@ const RANDOM_MAX = 10;
 
 function calculate($firstNumber, $secondNumber, $sign)
 {
-    switch($sign) {
+    switch ($sign) {
     case '+':
         return $firstNumber + $secondNumber;
-        break;
+    break;
     case '-':
         return $firstNumber - $secondNumber;
-        break;
+    break;
     case '*':
         return $firstNumber * $secondNumber;
-        break;        
+    break;
     }
 }
 

@@ -9,7 +9,7 @@ const ATTEMPT = 3;
 
 function gameLogic($gameDescription, $generateGameData)
 {
-    line("Welcome to the Brain Game! \n");
+    line("Welcome to the Brain Game!\n");
     line($gameDescription);
     $name = prompt("May I have your name?");
     line("Hello, {$name}!");
@@ -22,7 +22,6 @@ function gameLogic($gameDescription, $generateGameData)
         
         if ($currentAnswer === $answer) {
             line("Correct!");
-            continue;
         } else {
             line("'{$currentAnswer}' is wrong answer ;(. Correct answer was '{$answer}'");
             line("Let`s try again, {$name}!");

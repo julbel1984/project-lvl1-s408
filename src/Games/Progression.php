@@ -22,7 +22,7 @@ function generateProgression($start, $step, $progressionLength)
 
 function play()
 {
-    $generateGameData = function () {              
+    $generateGameData = function () {
         $progression = generateProgression(1, 10, PROGRESSION_LENGTH);
         $hiddenIndex = rand(0, PROGRESSION_LENGTH);
         $answer = $progression[$hiddenIndex];
@@ -30,7 +30,6 @@ function play()
         $question = implode(' ', $progression);
         $answer = (string) ($answer);
         return [$question, $answer];
-       
     };
     
     gameLogic(DESCRIPTION, $generateGameData);

@@ -44,6 +44,7 @@ Congratulations, Roman!
 
 ### Пример выполнения игры
 Запуск игры:
+
 <a href="https://asciinema.org/a/odDW8LcsMGKv4fWGno0Eddacb" target="_blank"><img src="https://asciinema.org/a/odDW8LcsMGKv4fWGno0Eddacb.svg" /></a>
 
 #### brain-even

@@ -42,4 +42,21 @@ Congratulations, Roman!
 
 Для запуска программы выполните команду brain-games из любой точки файловой системы
 
-### Пример выполнения и запуск игры
+### Пример выполнения игры
+Запуск игры:
+<a href="https://asciinema.org/a/odDW8LcsMGKv4fWGno0Eddacb" target="_blank"><img src="https://asciinema.org/a/odDW8LcsMGKv4fWGno0Eddacb.svg" /></a>
+
+#### brain-even
+Для запуска игры выполните команду brain-even из любой точки файловой системы
+
+#### brain-calc
+Для запуска игры выполните команду brain-calc из любой точки файловой системы
+
+#### brain-gcd
+Для запуска игры выполните команду brain-gcd из любой точки файловой системы
+
+#### brain-progression
+Для запуска игры выполните команду brain-progression из любой точки файловой системы
+
+#### brain-prime
+Для запуска игры выполните команду brain-prime из любой точки файловой системы

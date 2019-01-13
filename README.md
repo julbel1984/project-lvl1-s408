@@ -6,40 +6,40 @@
 
 Первый проект в рамках професии PHP-программист на [Хекслет](https://ru.hexlet.io/professions/php)
 
+### Описание проекта
+
+Необходимо реализовать набор мини-игр, запускаемых из консоли.
+
+Пример игрового процесса:
+
+```
+$ brain-progression
+
+Welcome to the Brain Game!
+What number is missing in this progression?
+
+May I have your name? Roman
+Hello, Roman!
+
+Question: 14 .. 18 20 22 24 26 28
+Your answer: 16
+Correct!
+Question: 5 6 7 8 9 .. 11 12
+Your answer: 10
+Correct!
+Question: 12 15 18 21 .. 27 30 33
+Your answer: 24
+Correct!
+Congratulations, Roman!
+
+```
+
 ### Установка
 
 Для глобальной установки выполните команду composer global require "julbel1984/hexlet-project-1"
-
 
 ### Запуск
 
 Для запуска программы выполните команду brain-games из любой точки файловой системы
 
-### Пример выполнения
-
-[![asciicast](https://asciinema.org/a/220125.svg)](https://asciinema.org/a/220125)
-
-### Пример выполнения первой игры
-#### brain-even
-Для запуска игры brain-even выполните команду brain-even из любой точки файловой системы
-<a href="https://asciinema.org/a/wqx6r0VfrDLcjqjzUewmsqw0E" target="_blank"><img src="https://asciinema.org/a/wqx6r0VfrDLcjqjzUewmsqw0E.svg" /></a>
-
-### Пример выполнения второй игры
-#### brain-calc
-Для запуска игры brain-calc выполните команду brain-calc из любой точки файловой системы
-<a href="https://asciinema.org/a/9fKTzTfivvwXwLcG1TwsZFZ8K" target="_blank"><img src="https://asciinema.org/a/9fKTzTfivvwXwLcG1TwsZFZ8K.svg" /></a>
-
-### Пример выполнения третьей игры
-#### brain-gcd
-Для запуска игры brain-gcd выполните команду brain-gcd из любой точки файловой системы
-<a href="https://asciinema.org/a/odDW8LcsMGKv4fWGno0Eddacb" target="_blank"><img src="https://asciinema.org/a/odDW8LcsMGKv4fWGno0Eddacb.svg" /></a>
-
-### Пример выполнения четвертой игры
-#### brain-progression
-Для запуска игры brain-progression выполните команду brain-progression из любой точки файловой системы
-<a href="https://asciinema.org/a/H3VXHVXcvaUnphLw4UF76kws6" target="_blank"><img src="https://asciinema.org/a/H3VXHVXcvaUnphLw4UF76kws6.svg" /></a>
-
-### Пример выполнения пятой игры
-#### brain-prime
-Для запуска игры brain-prime выполните команду brain-prime из любой точки файловой системы
-<a href="https://asciinema.org/a/2EjfC4Wy2i0BcMyfEnLXIT2Di" target="_blank"><img src="https://asciinema.org/a/2EjfC4Wy2i0BcMyfEnLXIT2Di.svg" /></a>
+### Пример выполнения и запуск игры

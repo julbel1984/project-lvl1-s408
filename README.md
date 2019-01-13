@@ -22,24 +22,24 @@
 ### Пример выполнения первой игры
 #### brain-even
 Для запуска игры brain-even выполните команду brain-even из любой точки файловой системы
-[![asciicast](https://asciinema.org/a/wqx6r0VfrDLcjqjzUewmsqw0E.svg)](https://asciinema.org/a/wqx6r0VfrDLcjqjzUewmsqw0E)
+<a href="https://asciinema.org/a/wqx6r0VfrDLcjqjzUewmsqw0E" target="_blank"><img src="https://asciinema.org/a/wqx6r0VfrDLcjqjzUewmsqw0E.svg" /></a>
 
 ### Пример выполнения второй игры
 #### brain-calc
 Для запуска игры brain-calc выполните команду brain-calc из любой точки файловой системы
-[![asciicast](https://asciinema.org/a/9fKTzTfivvwXwLcG1TwsZFZ8K.svg)](https://asciinema.org/a/9fKTzTfivvwXwLcG1TwsZFZ8K)
+<a href="https://asciinema.org/a/9fKTzTfivvwXwLcG1TwsZFZ8K" target="_blank"><img src="https://asciinema.org/a/9fKTzTfivvwXwLcG1TwsZFZ8K.svg" /></a>
 
 ### Пример выполнения третьей игры
 #### brain-gcd
 Для запуска игры brain-gcd выполните команду brain-gcd из любой точки файловой системы
-[![asciicast](https://asciinema.org/a/odDW8LcsMGKv4fWGno0Eddacb.svg)](https://asciinema.org/a/odDW8LcsMGKv4fWGno0Eddacb)
+<a href="https://asciinema.org/a/odDW8LcsMGKv4fWGno0Eddacb" target="_blank"><img src="https://asciinema.org/a/odDW8LcsMGKv4fWGno0Eddacb.svg" /></a>
 
 ### Пример выполнения четвертой игры
 #### brain-progression
 Для запуска игры brain-progression выполните команду brain-progression из любой точки файловой системы
-[![asciicast](https://asciinema.org/a/33SLhCTMjmLE8xa3VgpgEqEnH.svg)](https://asciinema.org/a/33SLhCTMjmLE8xa3VgpgEqEnH)
+<a href="https://asciinema.org/a/H3VXHVXcvaUnphLw4UF76kws6" target="_blank"><img src="https://asciinema.org/a/H3VXHVXcvaUnphLw4UF76kws6.svg" /></a>
 
 ### Пример выполнения пятой игры
 #### brain-prime
 Для запуска игры brain-prime выполните команду brain-prime из любой точки файловой системы
-[![asciicast](https://asciinema.org/a/2EjfC4Wy2i0BcMyfEnLXIT2Di.svg)](https://asciinema.org/a/2EjfC4Wy2i0BcMyfEnLXIT2Di)
+<a href="https://asciinema.org/a/2EjfC4Wy2i0BcMyfEnLXIT2Di" target="_blank"><img src="https://asciinema.org/a/2EjfC4Wy2i0BcMyfEnLXIT2Di.svg" /></a>
